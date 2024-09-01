@@ -1,0 +1,143 @@
+{
+    "number_of_approved": 15,
+    "number_of_declined": 12,
+    "likes": {
+        "results": [
+            {
+                "id": "MA20240798506",
+                "description": "A observa\u00e7\u00e3o 'fabrica\u00e7\u00e3o e execu\u00e7\u00e3o de treli\u00e7as' n\u00e3o est\u00e1 em conformidade com a atividade listada. A atividade descrita \u00e9 'Execu\u00e7\u00e3o de instala\u00e7\u00e3o de cultivo/produ\u00e7\u00e3o de esp\u00e9cies florestais', que pertence \u00e0 \u00e1rea de Agronomia e Fitotecnia. A observa\u00e7\u00e3o menciona treli\u00e7as, que s\u00e3o estruturas geralmente associadas \u00e0 engenharia civil ou mec\u00e2nica, n\u00e3o tendo rela\u00e7\u00e3o direta com o cultivo de esp\u00e9cies florestais. Esta discrep\u00e2ncia indica uma incompatibilidade entre a observa\u00e7\u00e3o e a atividade t\u00e9cnica declarada na ART.",
+                "is_approved": false
+            },
+            {
+                "id": "MA20240798480",
+                "description": "A observa\u00e7\u00e3o n\u00e3o abrange adequadamente todas as atividades listadas. Ela menciona 'Relat\u00f3rio anal de combate a inc\u00eandio do quiosque', que corresponde \u00e0 atividade de an\u00e1lise de preven\u00e7\u00e3o e combate a inc\u00eandio. Tamb\u00e9m cita 'constru\u00e7\u00e3o de pra\u00e7a p\u00fablica', que pode estar relacionada \u00e0 atividade de pavimenta\u00e7\u00e3o em paralelep\u00edpedo. No entanto, n\u00e3o h\u00e1 men\u00e7\u00e3o \u00e0 atividade de execu\u00e7\u00e3o de instala\u00e7\u00f5es el\u00e9tricas para fins comerciais, que \u00e9 uma parte significativa do escopo de trabalho listado. Al\u00e9m disso, a observa\u00e7\u00e3o n\u00e3o fornece uma vis\u00e3o geral clara e abrangente de todas as atividades t\u00e9cnicas envolvidas no projeto.",
+                "is_approved": false
+            },
+            {
+                "id": "MA20240798496",
+                "description": "A observa\u00e7\u00e3o 'FABRICA\u00c7\u00c3O DE PE\u00c7AS MET\u00c1LICAS' n\u00e3o est\u00e1 em conformidade com a atividade listada. A atividade descrita \u00e9 'Execu\u00e7\u00e3o de fabrica\u00e7\u00e3o' de 'EDIFICA\u00c7\u00c3O EM SISTEMA PR\u00c9-FABRICADO', que se refere a constru\u00e7\u00f5es civis pr\u00e9-fabricadas, n\u00e3o necessariamente met\u00e1licas. A observa\u00e7\u00e3o \u00e9 muito espec\u00edfica para pe\u00e7as met\u00e1licas, o que pode n\u00e3o abranger completamente o escopo da atividade de edifica\u00e7\u00e3o pr\u00e9-fabricada, que pode incluir outros materiais al\u00e9m do metal. Al\u00e9m disso, a observa\u00e7\u00e3o n\u00e3o menciona o contexto de edifica\u00e7\u00e3o, que \u00e9 crucial na atividade listada.",
+                "is_approved": false
+            },
+            {
+                "id": "MA20240798479",
+                "description": "A observa\u00e7\u00e3o est\u00e1 em conformidade com as atividades listadas. Ela abrange de forma geral todos os projetos mencionados nas atividades, incluindo instala\u00e7\u00f5es el\u00e9tricas em baixa tens\u00e3o, rede l\u00f3gica, instala\u00e7\u00f5es hidrossanit\u00e1rias e preven\u00e7\u00e3o e combate a inc\u00eandio. A descri\u00e7\u00e3o \u00e9 coerente com o escopo das atividades e n\u00e3o cont\u00e9m informa\u00e7\u00f5es contradit\u00f3rias ou fora do contexto dos servi\u00e7os listados.",
+                "is_approved": true
+            },
+            {
+                "id": "MA20240798475",
+                "description": "A observa\u00e7\u00e3o 'Instala\u00e7\u00e3o de combate a inc\u00eandio e SPDA' est\u00e1 em conformidade com as atividades listadas. Ela abrange de forma concisa as duas principais atividades: fiscaliza\u00e7\u00e3o de obra de instala\u00e7\u00e3o hidr\u00e1ulica para preven\u00e7\u00e3o e combate a inc\u00eandio, e fiscaliza\u00e7\u00e3o de obra de sistemas de prote\u00e7\u00e3o contra descargas atmosf\u00e9ricas (SPDA). A observa\u00e7\u00e3o \u00e9 coerente e n\u00e3o contradiz as atividades especificadas, fornecendo uma descri\u00e7\u00e3o geral adequada do escopo do trabalho.",
+                "is_approved": true
+            },
+            {
+                "id": "MA20240798474",
+                "description": "A observa\u00e7\u00e3o est\u00e1 em conformidade com as atividades listadas. Ela menciona 'Elabora\u00e7\u00e3o de projeto de fun\u00e7\u00e3o e estruturas met\u00e1licas', o que abrange as duas atividades descritas: projeto de funda\u00e7\u00f5es profundas (estacas de concreto moldadas in loco) e projeto de estruturas met\u00e1licas para fins diversos. A observa\u00e7\u00e3o fornece uma descri\u00e7\u00e3o geral que engloba todas as atividades listadas, sem contradi\u00e7\u00f5es ou informa\u00e7\u00f5es fora do escopo.",
+                "is_approved": true
+            },
+            {
+                "id": "MA20240798497",
+                "description": "A observa\u00e7\u00e3o 'Presta\u00e7\u00e3o de servi\u00e7o de tratamento de \u00e1gua' est\u00e1 em conformidade com a atividade listada de execu\u00e7\u00e3o de servi\u00e7o t\u00e9cnico de instala\u00e7\u00f5es hidrossanit\u00e1rias de sistema de \u00e1gua pot\u00e1vel. O tratamento de \u00e1gua \u00e9 uma parte essencial do sistema de \u00e1gua pot\u00e1vel, e a observa\u00e7\u00e3o fornece uma descri\u00e7\u00e3o geral que engloba a atividade espec\u00edfica mencionada, sem contradi\u00e7\u00f5es ou informa\u00e7\u00f5es fora do escopo.",
+                "is_approved": true
+            },
+            {
+                "id": "MA20240798481",
+                "description": "A observa\u00e7\u00e3o menciona 'Servi\u00e7o ilumina\u00e7\u00e3o publica nos portes de Pa\u00e7o de Lumiar', que n\u00e3o est\u00e1 relacionada com a atividade listada. A atividade descrita \u00e9 'Condu\u00e7\u00e3o de equipe de opera\u00e7\u00e3o' na \u00e1rea de 'PRODUTOS E PROCESSOS DA IND\u00daSTRIA T\u00caXTIL', especificamente para 'MALHAS'. H\u00e1 uma clara discrep\u00e2ncia entre a observa\u00e7\u00e3o, que fala sobre ilumina\u00e7\u00e3o p\u00fablica, e a atividade t\u00e9cnica registrada, que \u00e9 relacionada \u00e0 ind\u00fastria t\u00eaxtil. Esta inconsist\u00eancia resulta na reprova\u00e7\u00e3o da ART.",
+                "is_approved": false
+            },
+            {
+                "id": "MA20240798500",
+                "description": "A observa\u00e7\u00e3o menciona 'Instala\u00e7\u00e3o de rede el\u00e9trica na zona rural', o que n\u00e3o est\u00e1 alinhado com a atividade listada de 'Tecnologia Ambiental'. A descri\u00e7\u00e3o da observa\u00e7\u00e3o sugere um servi\u00e7o de instala\u00e7\u00e3o el\u00e9trica, enquanto a atividade registrada \u00e9 relacionada a tecnologia ambiental. Al\u00e9m disso, a unidade de medida 'volt por metro' n\u00e3o \u00e9 t\u00edpica para instala\u00e7\u00f5es el\u00e9tricas rurais. H\u00e1 uma discrep\u00e2ncia significativa entre a observa\u00e7\u00e3o e a atividade t\u00e9cnica registrada.",
+                "is_approved": false
+            },
+            {
+                "id": "",
+                "description": "A observa\u00e7\u00e3o 'Elabora\u00e7\u00e3o de projeto de funda\u00e7\u00e3o e estruturas met\u00e1licas' est\u00e1 em conformidade com as atividades listadas. Ela abrange de forma geral os dois itens especificados: projeto de funda\u00e7\u00f5es profundas (estacas de concreto moldadas in loco) e projeto de estruturas met\u00e1licas para fins diversos. A descri\u00e7\u00e3o \u00e9 concisa, mas engloba adequadamente o escopo das atividades sem contradi\u00e7\u00f5es ou informa\u00e7\u00f5es fora do contexto.",
+                "is_approved": true
+            },
+            {
+                "id": "MA20240798491",
+                "description": "A observa\u00e7\u00e3o est\u00e1 em conformidade com as atividades listadas. Ela menciona 'COLETA DE LIXO' e 'GEST\u00c3O INTEGRADA DE RES\u00cdDUOS S\u00d3LIDOS', que abrangem as quatro atividades de coleta de res\u00edduos s\u00f3lidos especificadas (domiciliares e de limpeza urbana, industriais, de servi\u00e7os de sa\u00fade e da constru\u00e7\u00e3o civil). A observa\u00e7\u00e3o tamb\u00e9m indica que o servi\u00e7o \u00e9 realizado conforme contrato para a Prefeitura de Belo Horizonte, o que \u00e9 consistente com a natureza dos servi\u00e7os de coleta de res\u00edduos. N\u00e3o h\u00e1 informa\u00e7\u00f5es contradit\u00f3rias ou fora do escopo das atividades listadas.",
+                "is_approved": true
+            },
+            {
+                "id": "MA20240798487",
+                "description": "A observa\u00e7\u00e3o menciona 'manuten\u00e7\u00e3o em subesta\u00e7\u00e3o el\u00e9trica', que n\u00e3o est\u00e1 relacionada com a atividade listada. A atividade descrita \u00e9 'Condu\u00e7\u00e3o de equipe de reparo' em 'Rede hidrossanit\u00e1ria para fins rurais'. H\u00e1 uma clara discrep\u00e2ncia entre a observa\u00e7\u00e3o e a atividade registrada, indicando uma inconsist\u00eancia no documento ART.",
+                "is_approved": false
+            },
+            {
+                "id": "MA20240798501",
+                "description": "A observa\u00e7\u00e3o menciona 'FABRICA\u00c7\u00c3O DE ESTRUTURA MET\u00c1LICA PARA APOIO DE PLACA SOLAR', que n\u00e3o est\u00e1 alinhada com a atividade listada. A atividade registrada \u00e9 'EXECU\u00c7\u00c3O DE FABRICA\u00c7\u00c3O' relacionada a 'SISTEMAS DE ENERGIA EL\u00c9TRICA > DE ELETRIFICA\u00c7\u00c3O > FERROVI\u00c1RIA'. H\u00e1 uma discrep\u00e2ncia significativa entre a fabrica\u00e7\u00e3o de estruturas para placas solares e a eletrifica\u00e7\u00e3o ferrovi\u00e1ria. Al\u00e9m disso, a observa\u00e7\u00e3o menciona o estado de Minas Gerais, informa\u00e7\u00e3o n\u00e3o relevante para a descri\u00e7\u00e3o t\u00e9cnica da atividade e que n\u00e3o consta nas atividades listadas.",
+                "is_approved": false
+            },
+            {
+                "id": "MA20240798488",
+                "description": "A observa\u00e7\u00e3o menciona 'Manuten\u00e7\u00e3o de sistemas de ar-condicionado', enquanto a atividade listada \u00e9 especificamente para 'Manuten\u00e7\u00e3o de equipamento' de 'SISTEMAS T\u00c9RMICOS DE VENTILA\u00c7\u00c3O'. Embora sistemas de ar-condicionado estejam relacionados \u00e0 ventila\u00e7\u00e3o, a observa\u00e7\u00e3o n\u00e3o \u00e9 precisa o suficiente para abranger completamente a atividade espec\u00edfica listada. A observa\u00e7\u00e3o deveria mencionar explicitamente sistemas de ventila\u00e7\u00e3o para estar em conformidade com a atividade registrada.",
+                "is_approved": false
+            },
+            {
+                "id": "MA20240798492",
+                "description": "A observa\u00e7\u00e3o 'Execu\u00e7\u00e3o e Supervis\u00e3o de obra residencial' est\u00e1 em conformidade com as atividades listadas. A execu\u00e7\u00e3o \u00e9 mencionada explicitamente e corresponde \u00e0 primeira atividade de 'Execu\u00e7\u00e3o de obra'. A supervis\u00e3o pode ser interpretada como equivalente \u00e0 'Fiscaliza\u00e7\u00e3o de obra', que \u00e9 a segunda atividade listada. Ambas as atividades s\u00e3o para fins residenciais, o que \u00e9 coerente com a finalidade declarada. A observa\u00e7\u00e3o fornece uma descri\u00e7\u00e3o geral que abrange adequadamente as atividades sem contradi\u00e7\u00f5es ou informa\u00e7\u00f5es fora do escopo.",
+                "is_approved": true
+            },
+            {
+                "id": "MA20240798484",
+                "description": "A ART foi aprovada porque a observa\u00e7\u00e3o 'RECEITA AGRONOMICA' est\u00e1 em conformidade com o tipo de ART 'RECEITU\u00c1RIO AGRON\u00d4MICO' e a finalidade 'Agr\u00edcola'. N\u00e3o h\u00e1 atividades listadas para compara\u00e7\u00e3o, mas a observa\u00e7\u00e3o \u00e9 coerente com o prop\u00f3sito declarado da ART.",
+                "is_approved": true
+            },
+            {
+                "id": "MA20240798502",
+                "description": "A observa\u00e7\u00e3o menciona 'Execu\u00e7\u00e3o de a\u00e7ude de peixes', o que n\u00e3o est\u00e1 alinhado com a atividade listada de 'Capta\u00e7\u00e3o de \u00e1gua para fins rurais'. Al\u00e9m disso, a observa\u00e7\u00e3o n\u00e3o aborda especificamente o manejo de bacias hidrogr\u00e1ficas ou a capta\u00e7\u00e3o de \u00e1gua, que s\u00e3o os elementos centrais da atividade descrita. A discrep\u00e2ncia entre a observa\u00e7\u00e3o e a atividade registrada resulta na reprova\u00e7\u00e3o da ART.",
+                "is_approved": false
+            },
+            {
+                "id": "MA20240798485",
+                "description": "A observa\u00e7\u00e3o 'TESTE ESTANQUEIDADE EM TANQUES DE COMBUSTIVEIS.EM NAVIOS' est\u00e1 em conformidade com a atividade listada. A atividade subordinada menciona 'TESTES DE ESTANQUEIDADE EM TUBULA\u00c7\u00d5ES/DUTOS NAVAIS', que \u00e9 consistente com o teste de estanqueidade em tanques de combust\u00edveis em navios. Embora a observa\u00e7\u00e3o especifique tanques de combust\u00edveis e a atividade mencione tubula\u00e7\u00f5es/dutos, ambos s\u00e3o componentes navais que requerem testes de estanqueidade. A observa\u00e7\u00e3o fornece uma descri\u00e7\u00e3o geral que engloba a atividade listada, sem contradi\u00e7\u00f5es ou informa\u00e7\u00f5es fora do escopo.",
+                "is_approved": true
+            },
+            {
+                "id": "MA20240798489",
+                "description": "A observa\u00e7\u00e3o 'Instala\u00e7\u00e3o de sistema de split em um pr\u00e9dio comercial' est\u00e1 em conformidade com a atividade listada. A atividade subordinada menciona 'SISTEMAS T\u00c9RMICOS > DE CONDICIONAMENTO DE AR', que \u00e9 consistente com a instala\u00e7\u00e3o de sistema split. O servi\u00e7o de 'Condu\u00e7\u00e3o de equipe de instala\u00e7\u00e3o' tamb\u00e9m est\u00e1 alinhado com a observa\u00e7\u00e3o, indicando a execu\u00e7\u00e3o da instala\u00e7\u00e3o. A observa\u00e7\u00e3o fornece uma descri\u00e7\u00e3o geral que engloba a atividade listada, sem contradi\u00e7\u00f5es ou informa\u00e7\u00f5es fora do escopo.",
+                "is_approved": true
+            },
+            {
+                "id": "MA20240798482",
+                "description": "A observa\u00e7\u00e3o menciona 'Projeto e Execu\u00e7\u00e3o de sistema fotovoltaico', por\u00e9m a atividade listada refere-se apenas \u00e0 'Execu\u00e7\u00e3o' de projeto de painel solar fotovoltaico. A inclus\u00e3o do termo 'Projeto' na observa\u00e7\u00e3o n\u00e3o est\u00e1 em conformidade com a atividade registrada, que \u00e9 somente de execu\u00e7\u00e3o. Para aprova\u00e7\u00e3o, a observa\u00e7\u00e3o deveria se limitar \u00e0 execu\u00e7\u00e3o do sistema fotovoltaico, sem mencionar o projeto.",
+                "is_approved": false
+            },
+            {
+                "id": "MA20240798504",
+                "description": "A observa\u00e7\u00e3o est\u00e1 em conformidade com a atividade listada. A descri\u00e7\u00e3o 'Terraplanagem na av. juriquiti na cidade de jalequamara-ma' corresponde diretamente \u00e0 atividade de execu\u00e7\u00e3o de obra de terraplenagem mencionada na atividade subordinada. A observa\u00e7\u00e3o fornece informa\u00e7\u00f5es adicionais sobre a localiza\u00e7\u00e3o espec\u00edfica do servi\u00e7o, o que \u00e9 apropriado e n\u00e3o contradiz a atividade listada.",
+                "is_approved": true
+            },
+            {
+                "id": "MA20240798477",
+                "description": "A observa\u00e7\u00e3o 'Constru\u00e7\u00e3o de uma resid\u00eancia Unifamiliar' n\u00e3o est\u00e1 em conformidade com a atividade listada. A ART descreve 'Fiscaliza\u00e7\u00e3o' de 'Coleta de dados' para 'Loca\u00e7\u00e3o Topogr\u00e1fica de Obras Civis', que \u00e9 uma atividade espec\u00edfica e t\u00e9cnica relacionada \u00e0 agrimensura. A observa\u00e7\u00e3o menciona constru\u00e7\u00e3o, que \u00e9 uma atividade muito mais ampla e n\u00e3o reflete adequadamente o escopo limitado e espec\u00edfico da atividade de fiscaliza\u00e7\u00e3o de coleta de dados topogr\u00e1ficos descrita na ART.",
+                "is_approved": false
+            },
+            {
+                "id": "MA20240798498",
+                "description": "A observa\u00e7\u00e3o 'instala\u00e7\u00e3o de gerador de energia' est\u00e1 em conformidade com a atividade listada. A atividade subordinada menciona especificamente 'DE GERADOR DE ENERGIA EL\u00c9TRICA', e o servi\u00e7o \u00e9 descrito como 'Execu\u00e7\u00e3o de instala\u00e7\u00e3o'. A observa\u00e7\u00e3o resume de forma concisa e precisa o escopo do trabalho, sem contradizer ou exceder as informa\u00e7\u00f5es fornecidas na atividade listada.",
+                "is_approved": true
+            },
+            {
+                "id": "MA20240798476",
+                "description": "A observa\u00e7\u00e3o est\u00e1 em conformidade com as atividades listadas. Ela menciona 'Dire\u00e7\u00e3o de obra de uma edifica\u00e7\u00e3o comercial', que corresponde \u00e0 atividade de 'Condu\u00e7\u00e3o de equipe de opera\u00e7\u00e3o' para 'Edifica\u00e7\u00f5es para fins comerciais'. Al\u00e9m disso, a observa\u00e7\u00e3o inclui 'elabora\u00e7\u00e3o e execu\u00e7\u00e3o de combate a inc\u00eandio', que est\u00e1 alinhada com a atividade de 'Instala\u00e7\u00f5es de preven\u00e7\u00e3o e combate a inc\u00eandio'. A men\u00e7\u00e3o a '3 pavimentos' fornece detalhes adicionais sem contradizer as atividades listadas. A observa\u00e7\u00e3o abrange de forma geral e coerente todas as atividades especificadas.",
+                "is_approved": true
+            },
+            {
+                "id": "MA20240798499",
+                "description": "A observa\u00e7\u00e3o 'Coleta de lixo do munic\u00edpio de S\u00e3o Lu\u00eds - MA' est\u00e1 em conformidade com a atividade listada. A atividade subordinada menciona 'COLETA DE RES\u00cdDUOS S\u00d3LIDOS DOMICILIARES E DE LIMPEZA URBANA', que \u00e9 consistente com a descri\u00e7\u00e3o de coleta de lixo municipal. O servi\u00e7o de 'Condu\u00e7\u00e3o de equipe de opera\u00e7\u00e3o' tamb\u00e9m est\u00e1 alinhado com a natureza da atividade descrita. A quantidade e unidade de medida (230,00 toneladas) s\u00e3o coerentes com um servi\u00e7o de coleta de lixo em escala municipal. Portanto, a observa\u00e7\u00e3o fornece uma descri\u00e7\u00e3o geral adequada que engloba a atividade listada, sem contradi\u00e7\u00f5es.",
+                "is_approved": true
+            },
+            {
+                "id": "MA20240798505",
+                "description": "A observa\u00e7\u00e3o 'IRRIGA\u00c7\u00c3O' n\u00e3o est\u00e1 em conformidade com a atividade listada. A atividade descrita \u00e9 'Execu\u00e7\u00e3o de servi\u00e7o t\u00e9cnico' relacionada a 'IMPACTOS ENERG\u00c9TICOS AO MEIO AMBIENTE', enquanto a observa\u00e7\u00e3o menciona apenas irriga\u00e7\u00e3o, que \u00e9 um tema n\u00e3o relacionado e fora do escopo da atividade especificada. H\u00e1 uma clara discrep\u00e2ncia entre a observa\u00e7\u00e3o e a atividade t\u00e9cnica registrada na ART.",
+                "is_approved": false
+            },
+            {
+                "id": "MA20240798483",
+                "description": "A observa\u00e7\u00e3o est\u00e1 em conformidade com a atividade listada. O campo 'observacao' menciona 'DESENVOLVIMENTO/FABRICA\u00c7\u00c3O DE PRODUTOS QUIMICOS PARA TRATAMENTO DE EFLUENTES', o que \u00e9 coerente com a atividade subordinada 'DE EQUIPAMENTOS PARA TRATAMENTO DE EFLUENTES' e o servi\u00e7o de 'Desenvolvimento'. A observa\u00e7\u00e3o fornece uma descri\u00e7\u00e3o geral que engloba a atividade listada, sem contradi\u00e7\u00f5es ou informa\u00e7\u00f5es fora do escopo.",
+                "is_approved": true
+            }
+        ]
+    }
+}
